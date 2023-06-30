@@ -106,7 +106,8 @@ cc7777777777776c
 
     helpers._registerFactory("song", function(name: string) {
         switch(helpers.stringTrim(name)) {
-
+            case "song1":
+            case "forage harder":return hex`0078000408020100001c00010a006400f401640000040000000000000000000000000005000004060000001200012a`;
         }
         return null;
     })
