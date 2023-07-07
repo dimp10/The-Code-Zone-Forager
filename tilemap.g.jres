@@ -22,7 +22,7 @@
             "sprites.skillmap.islandTile4",
             "sprites.dungeon.floorLight2"
         ],
-        "displayName": "level"
+        "displayName": "World"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

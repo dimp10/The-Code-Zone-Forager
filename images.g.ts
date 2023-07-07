@@ -113,6 +113,50 @@ cc7777777777776c
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image5":
+            case "Stone":return img`
+. . c c c c . . 
+. c b d d d c . 
+c b d d d d d c 
+c b b d d d d c 
+c b d b d d b c 
+c c b d b b b c 
+c c c b d d b c 
+c c b b c c c c 
+`;
+            case "image6":
+            case "Stone_Iron":return img`
+. . c c c c . . 
+. c b d b 9 c . 
+c b d d d b 9 c 
+c b b 9 d d d c 
+c b 9 9 d d b c 
+c c b d b b 9 c 
+c c c b d 9 9 c 
+c c b b c c c c 
+`;
+            case "image7":
+            case "Stone_Gold":return img`
+. . c c c c . . 
+. c 5 d d d c . 
+c b 5 d d d d c 
+c b b d 5 d d c 
+c b d b 5 5 b c 
+c c b d b b b c 
+c c b 5 5 d b c 
+c c b b c c c c 
+`;
+            case "image8":
+            case "Stone_Coal":return img`
+. . c c c c . . 
+. c b d d d c . 
+c b d d f d f c 
+c b b f f d f c 
+c b d b d d b c 
+c c b d b f b c 
+c c c b d f f c 
+c c b b c c c c 
+`;
         }
         return null;
     })

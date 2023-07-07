@@ -19,6 +19,26 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Sword"
     },
+    "image5": {
+        "data": "hwQIAAgAAAAAzMzMwLvLzLy9vbzc3du73N29zdzdvc3A3bvLAMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Stone"
+    },
+    "image6": {
+        "data": "hwQIAAgAAAAAzMzMwLvLzLy9ubzcndm7vN29zZzbvcnA2ZvJAMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Stone_Iron"
+    },
+    "image7": {
+        "data": "hwQIAAgAAAAAzMzMwLvLzFy1vbvc3du13F21xdzdtc3A3bvLAMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Stone_Gold"
+    },
+    "image8": {
+        "data": "hwQIAAgAAAAAzMzMwLvLzLy9vbzc/du73P+9zdzd/c/A/7vPAMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Stone_Coal"
+    },
     "song1": {
         "data": "0078000408020100001c00010a006400f401640000040000000000000000000000000005000004060000001200012a",
         "mimeType": "application/mkcd-song",
